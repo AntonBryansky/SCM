@@ -32,3 +32,8 @@ The main description will be uploaded later.
 About balancing algorithm for eigenvalue problem:
 [BALANCE2 Balancing generalized eigenvalue problem](https://www.mathworks.com/matlabcentral/fileexchange/49719-balance2-balancing-generalized-eigenvalue-problem) (requires
 [GCG Generalized conjugate gradient method](https://www.mathworks.com/matlabcentral/fileexchange/49720-gcg-generalized-conjugate-gradient-method))
+
+## Thanks to
+* Dr. Armin Huber, German Aerospace Center (DLR), Augsburg, Germany
+* Prof. Pavel Utkin, Harbin Institute of Technology, Harbin, China
+* Abir Rous (woah!)
