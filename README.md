@@ -1,7 +1,9 @@
 # Spectral Collocation Method for dispersion curves plotting
+Calculate guided wave dispersion curves for orthotropic (anisotropic) laminates.
+
 ## Description
 The main description will be uploaded later. 
-
+The MATLAB-based script for calculation of dispersion curves for composite plates as the case of multilayer orthotropic media using (Pseudo-)Spectral Collocation Method.  
 
 ## Files
 
