@@ -11,7 +11,7 @@ The main description will be uploaded later.
 
 `chebdiff.m` - function for creation of the Chebyshev differentiation matrices
 
-`balance2.m` and `gcg.m` - functions required for balancing algorithm (look [Important links](##important-links)).
+`balance2.m` and `gcg.m` - functions required for balancing algorithm (look [Important links](#important-links)).
 
 `SM_HC.m` - function for calculation of the stifness matrix for honeycomb core
 
