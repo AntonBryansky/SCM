@@ -2,14 +2,14 @@
 Calculate guided wave dispersion curves for orthotropic (anisotropic) laminates.
 
 ## Description
-The main description will be uploaded later. 
 The MATLAB-based script for calculation of dispersion curves for composite plates as the case of multilayer orthotropic media using (Pseudo-)Spectral Collocation Method.  
+
 
 ## Files
 
-`SCM_SL.m` - Spectral Collocation Method for a single-layer case
+`SCM_SL.m` - Spectral Collocation Method script for a single-layer case
 
-`SCM_ML_HCS` - Spectral Collocation MEthod for a multilayer case (honeycomb sandwich composite)
+`SCM_ML_HCS` - Spectral Collocation Method script for a multilayer case (example for honeycomb sandwich composite)
 
 `chebdiff.m` - function for creation of the Chebyshev differentiation matrices
 
