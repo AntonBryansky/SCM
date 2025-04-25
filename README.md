@@ -4,7 +4,7 @@ Calculate guided wave dispersion curves for orthotropic (anisotropic) laminates.
 ## Description
 The MATLAB-based script for calculation of dispersion curves for composite plates as the case of multilayer orthotropic media using (Pseudo-)Spectral Collocation Method.
 
-## Papers
+## Paper
 A. A. Bryansky, S. V. Panin, Dispersion curves calculation for all-CFRP sandwich composite using Spectral Collocation Method, Acta Astronautica (2025). [DOI](https://doi.org/10.1016/j.actaastro.2025.04.042)
 
 ## Files
